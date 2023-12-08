@@ -1,0 +1,35 @@
+*{
+    padding: 4px;
+    background-color: rgb(43, 43, 43);
+    color: beige;
+}
+#caja{
+   position: fixed;
+   left: 50%;
+   transform: translate(-50%, 50%);
+   padding: 0px;
+}
+legend{
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    text-transform: uppercase;
+}
+label{
+    font-weight: bolder;
+    text-transform: uppercase;
+    margin-right: 5px;
+}
+fieldset{
+    padding: 30px;
+    border: 5px solid beige;
+}
+hr{
+    border: 5px solid beige;
+    padding: 0px;
+    margin-bottom: 15px;
+}
+input{
+    margin-bottom: 15px;
+    border: 2px solid beige;
+}
